@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="pref_timer_melody_labels">
+
+        <item>Alarm</item>
+        <item>Moon</item>
+        <item>Brip</item>
+
+
+    </array>
+
+    <array name="pref_timer_melody_values">
+
+        <item>alarm</item>
+        <item>moon</item>
+        <item>brip</item>
+
+
+    </array>
+</resources>
